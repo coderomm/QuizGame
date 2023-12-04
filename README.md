@@ -1,4 +1,4 @@
-# Quiz Game
+# Quiz Game ( C# )
 
 Welcome to the Quiz Game! Test your knowledge with a series of questions.
 
